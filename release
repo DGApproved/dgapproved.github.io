@@ -1,0 +1,8 @@
+Origin: dgapprovedrepo
+Label: a dgapproved repo
+Suite: stable
+Version: 1.0
+Codename: dgapprovedrepo
+Architectures: iphoneos-arm
+Components: main
+Description: a dgapproved repo -contains a collection of tweaks for old and new ios versions-
